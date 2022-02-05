@@ -8,3 +8,15 @@
 ### Developed by Programming with Chavez Fredy
 
 Project completed and the final design
+
+Desktop design dark mode
+!["Desktop design dark mode"](https://github.com/Fredymax/FrontEndMentor-DarkLightMode/blob/main/assets/design/dark-mode.PNG?raw=true)
+
+Mobile design dark mode
+!["Mobile design dark mode"](https://github.com/Fredymax/FrontEndMentor-DarkLightMode/blob/main/assets/design/mobile-dark-mode.PNG?raw=true)
+
+Desktop design light mode
+!["Desktop design light mode"](https://github.com/Fredymax/FrontEndMentor-DarkLightMode/blob/main/assets/design/light-mode.PNG?raw=true)
+
+Mobile design light mode
+!["Mobile design light mode"](https://github.com/Fredymax/FrontEndMentor-DarkLightMode/blob/main/assets/design/mobile-light-mode.PNG?raw=true)
