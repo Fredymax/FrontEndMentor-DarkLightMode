@@ -1,0 +1,43 @@
+:root {
+  /* --switch-bg-theme-light: hsl(230, 22%, 74%);
+  --switch-btn-theme-light: hsl(230, 17%, 14%);
+  --bg-body: #1D2029;
+  --bg-pattern: #20222F;
+  --text-gray-color: hsl(228, 34%, 66%);
+  --bg-hover-switch: linear-gradient(to right, hsl(210, 78%, 56%),hsl(146, 68%, 55%));
+  --text-color-general: #fff;
+  --card-bg: hsl(228, 28%, 20%);
+  --card-text-color: hsl(228, 34%, 66%); */
+  
+  --color-facebook: hsl(208, 92%, 53%);
+  --color-twitter: hsl(208, 92%, 53%);
+  --color-instragram1: hsl(37, 97%, 70%);
+  --color-instragram2: hsl(329, 70%, 58%);
+  --color-youtube: hsl(348, 97%, 39%);
+  --limegreen: hsl(163, 72%, 41%);
+  --bright-red: hsl(356, 69%, 56%);
+  
+  --switch-bg-theme-light: hsl(230, 22%, 74%);
+  --switch-btn-theme-light: #fff;
+  --bg-body: #fff;
+  --bg-pattern: hsl(225, 100%, 98%);
+  --text-gray-color: #565969;
+  --bg-hover-switch: linear-gradient(to right, hsl(210, 78%, 56%),hsl(146, 68%, 55%));
+  --text-color-general: #1B1E27;
+  --card-bg: hsl(227, 47%, 96%);
+  --card-text-color: hsl(228, 12%, 44%);
+}
+
+/* @media (prefers-color-scheme: light) {
+	body {
+		background-color: #f5f5f5;
+		color: #222;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #222;
+		color: #fff;
+	}
+} */

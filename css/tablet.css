@@ -1,0 +1,27 @@
+@media screen and (max-width: 950px) {
+  .bg-top {
+    border-radius: 0 0 1.5rem 1.5rem;
+  }
+  header {
+    padding-block-start: 0;
+    padding-block-end: 0;
+  }
+  .header-right {
+    inline-size: 100%;
+    justify-content: space-between;
+  }
+
+  .header-left ~ hr {
+    display: block;
+  }
+
+  .wrapper {
+    padding: 1.5rem;
+    padding-block-end: 0;
+  }
+
+  .list-overviews,
+  .list-followers {
+    grid-template-columns: 1fr 1fr;
+  }
+}
